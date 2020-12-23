@@ -1,0 +1,23 @@
+{
+  "name": "netcon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masamitsu-konya/netcon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masamitsu-konya/netcon/issues"
+  },
+  "homepage": "https://github.com/masamitsu-konya/netcon#readme",
+  "dependencies": {
+    "contentful": "^8.1.5"
+  }
+}
